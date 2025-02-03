@@ -1,0 +1,20 @@
+{
+  "name": "mims-pulumi-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^6.66.2",
+    "@pulumi/cloudflare": "^5.45.0",
+    "@pulumi/command": "^1.0.1",
+    "@pulumi/docker": "^4.5.8",
+    "@pulumi/pulumi": "^3.143.0",
+    "@pulumi/random": "^4.17.0",
+    "minimist": "^1.2.8",
+    "ssh-config": "^5.0.1"
+  },
+  "packageManager": "yarn@1.22.22"
+}
